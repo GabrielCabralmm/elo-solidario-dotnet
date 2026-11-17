@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{95574D0E-A297-4034-B04D-087940D0657B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EloSolidario.Api", "src\EloSolidario.Api\EloSolidario.Api.csproj", "{503351A7-72B5-474A-ACF7-68B013A2D1C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{9FF41A1E-30F8-4E86-9E38-B264C7718890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EloSolidario.Tests", "tests\EloSolidario.Tests\EloSolidario.Tests.csproj", "{522D05DF-0051-4A54-A592-75530F08E97C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503351A7-72B5-474A-ACF7-68B013A2D1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503351A7-72B5-474A-ACF7-68B013A2D1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503351A7-72B5-474A-ACF7-68B013A2D1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503351A7-72B5-474A-ACF7-68B013A2D1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522D05DF-0051-4A54-A592-75530F08E97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522D05DF-0051-4A54-A592-75530F08E97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522D05DF-0051-4A54-A592-75530F08E97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522D05DF-0051-4A54-A592-75530F08E97C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{503351A7-72B5-474A-ACF7-68B013A2D1C9} = {95574D0E-A297-4034-B04D-087940D0657B}
+		{522D05DF-0051-4A54-A592-75530F08E97C} = {9FF41A1E-30F8-4E86-9E38-B264C7718890}
+	EndGlobalSection
+EndGlobal
