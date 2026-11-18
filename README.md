@@ -7,9 +7,9 @@ Global Solution 2026/2 · CitizenTech · FIAP 2TDS
 | Gabriel Cabral Mendes Mariano | 563230 | 2TDSPO |
 | João Victor Santana dos Santos | 566063 | 2TDSPX |
 
-- **Deploy:** <link do Render>
-- **Swagger:** `<link do Render>/swagger`
-- **Health:** `<link do Render>/health`
+- **Deploy:** https://elo-solidario-dotnet.onrender.com
+- **Swagger:** https://elo-solidario-dotnet.onrender.com/swagger
+- **Health:** https://elo-solidario-dotnet.onrender.com/health
 
 ## O problema e a solução
 
